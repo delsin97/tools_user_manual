@@ -13,15 +13,22 @@
 
 ## 基本操作
 
+### 建立仓库
+
+```
+git init newrepo
+```
+
 ### 推送
 
 ```
 git add .
-git commit -m "操作名称"
+git commit -m "操作说明"
 git push -u origin main
 ```
 
 ### 下载
+
 ```
 git fetch -all
 git reset --hard origin/main
