@@ -34,3 +34,8 @@ git fetch -all
 git reset --hard origin/main
 git pull
 ```
+
+### 参考资料
+[git教程]:https://www.runoob.com/git/git-tutorial.html
+
+* [git教程]
